@@ -1,1 +1,1 @@
-# Quzzes
+# Quizzes
